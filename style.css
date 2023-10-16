@@ -1,0 +1,36 @@
+body {
+    background-color: #f4e8ed;
+    text-align: center;
+    font-family: "Cursive", cursive;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .container {
+    margin-top: 150px;
+  }
+  
+  h1 {
+    font-size: 36px;
+    color: #ff3385;
+  }
+  
+  button {
+    margin: 10px;
+    padding: 15px 30px;
+    font-size: 20px;
+    cursor: pointer;
+    border: 2px solid #ff3385;
+    background-color: #ff87af;
+    color: #ffffff;
+    border-radius: 25px;
+  }
+  
+  button#noButton {
+    background-color: #ff6b81;
+  }
+  
+  button#yesButton:hover {
+    background-color: #ff185a;
+  }
+  
